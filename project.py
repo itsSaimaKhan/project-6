@@ -56,7 +56,7 @@
 #     def start(self):
 #         print(f"{self.brand} is starting.")
         
-my_car = Car("Toyota")
-print(my_car.brand)  # Accessing public variable
-my_car.start()  # Calling public method        
+# my_car = Car("Toyota")
+# print(my_car.brand)  # Accessing public variable
+# my_car.start()  # Calling public method        
 
